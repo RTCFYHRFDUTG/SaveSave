@@ -2,6 +2,12 @@
 
 ChromaSave is a simple way to store save data using JSON!
 
+## Installation
+```
+haxelib install chromasave
+```
+
+
 ## Usage
 
 ``` haxe
